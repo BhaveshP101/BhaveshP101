@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Bhavesh Patil
 
-### 🐍 Python Developer | Django Developer | AI/ML Enthusiast
+### 💻 Full Stack Developer | Python & Django | AI/ML Enthusiast
 
-I enjoy building practical projects with Python, exploring AI/ML, and turning ideas into working applications.
+I enjoy building practical web applications, working across frontend and backend technologies, and exploring AI/ML to turn ideas into useful solutions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhavesh-patil-2a97a5177/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:bhaveshpatil.yp101@gmail.com)
@@ -11,14 +11,17 @@ I enjoy building practical projects with Python, exploring AI/ML, and turning id
 
 ## 👨‍💻 About Me
 
-I'm a passionate developer who enjoys learning by building.
+I'm a passionate developer who enjoys learning by building and solving practical problems through technology.
 
+- 💻 Building full-stack web applications
 - 🐍 Working with Python and Django
-- 🌐 Building web applications and backend systems
+- 🌐 Developing responsive and interactive web interfaces
+- 🗄️ Working with databases and backend systems
 - 🤖 Exploring AI, Machine Learning and Generative AI
-- 💡 Interested in solving real-world problems through technology
+- 🔗 Learning and working with APIs and application integrations
+- 💡 Interested in solving real-world problems with technology
 - 📚 Continuously learning and improving my development skills
-- 🚀 Looking for opportunities to grow as a developer
+- 🚀 Looking for opportunities to grow as a Full Stack Developer
 
 ---
 
@@ -30,11 +33,6 @@ I'm a passionate developer who enjoys learning by building.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### Backend
-
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
 ### Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -42,10 +40,21 @@ I'm a passionate developer who enjoys learning by building.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
+### Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
 ### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+### AI / Machine Learning
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 ### Tools
 
@@ -57,11 +66,13 @@ I'm a passionate developer who enjoys learning by building.
 
 ## 🤖 Currently Exploring
 
+- Full Stack Development
+- REST APIs
 - Machine Learning
 - Generative AI
 - AI-powered applications
-- APIs and backend development
-- Full-stack development
+- Backend development
+- Modern web technologies
 
 ---
 

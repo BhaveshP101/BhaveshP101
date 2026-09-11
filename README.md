@@ -55,19 +55,6 @@ I'm a passionate developer who enjoys learning by building.
 
 ---
 
-## 👨‍💻 About Me
-
-I'm a passionate developer who enjoys learning by building and solving practical problems with technology.
-
-- 🐍 Working with Python and Django
-- 🤖 Exploring AI, Machine Learning and Generative AI
-- 🌐 Interested in backend and full-stack development
-- 📚 Continuously improving my development skills
-- 💡 Enjoy building practical and meaningful applications
-- 🚀 Currently looking for opportunities to grow as a developer
-
----
-
 ## 🤖 Currently Exploring
 
 - Machine Learning

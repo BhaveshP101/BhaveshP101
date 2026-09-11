@@ -4,8 +4,8 @@
 
 I enjoy building practical projects with Python, exploring AI/ML, and turning ideas into working applications.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhavesh-patil-2a97a5177/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:bhaveshpatil.yp101@gmail.com)
 
 ---
 
@@ -88,7 +88,7 @@ I'm a passionate developer who enjoys learning by building and solving practical
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/bhavesh-patil-2a97a5177)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhavesh-patil-2a97a5177/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-BhaveshP101-black?style=for-the-badge&logo=github)](https://github.com/BhaveshP101)
 

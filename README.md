@@ -74,15 +74,6 @@ I'm a passionate developer who enjoys learning by building and solving practical
 - Backend development
 - Modern web technologies
 
----
-
-## 📊 GitHub Stats
-
-![Bhavesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhaveshP101&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BhaveshP101&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Connect With Me
 

@@ -64,7 +64,7 @@ I'm a passionate developer who enjoys learning by building and solving practical
 
 ---
 
-## 🤖 Currently Explorin
+## 🤖 Currently Exploring
 
 - Full Stack Development
 - REST APIs

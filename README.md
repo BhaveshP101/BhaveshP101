@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Bhavesh Patil
 
-### 💻 Full Stack Developer | Python & Django | AI/ML Enthusias
+### 💻 Full Stack Developer | Python & Django | AI/ML Enthusiast
 
 I enjoy building practical web applications, working across frontend and backend technologies, and exploring AI/ML to turn ideas into useful solutions.
 
